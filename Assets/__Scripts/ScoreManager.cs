@@ -5,7 +5,7 @@ public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager Instance; // Singleton instance for easy access
     public TextMeshProUGUI scoreText; // Link this to your UI text element in the Inspector
-    private int currentScore = 0;
+    public int currentScore { get; private set; } = 0; 
 
     private void Awake()
     {
