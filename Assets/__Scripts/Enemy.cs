@@ -96,6 +96,9 @@ public class Enemy : MonoBehaviour {
                     }
                     notifiedOfDestruction = true;
                     // Destroy this enemy
+                    ScoreManager.Instance.AddScore(score); // Add score based on the enemy's score value MY ADDITION TO THE SCRIPT :)
+
+
                     Destroy(this.gameObject);
                 }
                 Destroy(otherGO);
