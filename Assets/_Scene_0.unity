@@ -2113,7 +2113,7 @@ MonoBehaviour:
   - {fileID: 1808560890}
   - {fileID: 494030672}
   - {fileID: 511470548}
-  _shieldLevel: 3
+  _shieldLevel: 2
 --- !u!4 &1342965580
 Transform:
   m_ObjectHideFlags: 0

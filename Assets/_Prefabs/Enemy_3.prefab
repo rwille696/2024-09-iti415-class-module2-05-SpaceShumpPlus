@@ -394,7 +394,7 @@ MonoBehaviour:
   speed: 100
   fireRate: 0.3
   health: 6
-  score: 90
+  score: 50
   showDamageDuration: 0.1
   powerUpDropChance: 0.5
   originalColors: []
