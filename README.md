@@ -1,2 +1,3 @@
 # 05-Space-SHMUP
  
+For our version of the space shooter we wanted to create a version that tracked the score and had a timer to put the player under pressure. With the timer in view the player is given an objective to achieve 2,000 points before the two minutes runs out. If unsuccessful the player is directed to try again via a retry panel and a "try again?" button. Other changes made to the game include a new enemy, changes in power up frequency, health, spawn rate, speed, point values, as well asthetic changes to the hero and enemies. With these changes we intended to create a moderately difficult to achieve objective to encourage the player to make multiple attempts to be successful.
